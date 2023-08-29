@@ -9,12 +9,21 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 
 Steps executed :
 Process the images and resize them to the preferred size
+
 Preparing the training and testing data
+
 Visualize training images
+
 incoprating the validation data into the training data
+
 Prepare data for precision vs. recall and ROC
+
 Set thresholds for our model
+
 Plotting the confusion matrix
+
 View some results from a sample of 25 images
+
 Download the model
+
 
