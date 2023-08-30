@@ -29,3 +29,11 @@ View some results from a sample of 25 images
 Download the model
 
 
+#OUTPUT :
+
+
+<img width="851" alt="output" src="https://github.com/AryanGupta2708/Pneumonia-Detection-Using-Deep-Learning/assets/111694369/59003560-8be6-45b8-b18b-89d3e7296289">
+
+
+
+
